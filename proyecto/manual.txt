@@ -1,0 +1,13 @@
+% Manual de HTML
+% Lucero Garcia
+% agosto, 2016
+
+Presentacion
+==============
+Este manual contiene el material del curso **aplicaciones modernas en html** los temas
+1. HTML y DOM   
+2. Librerias JavaScript
+  * nodejs
+  * jquery
+  * jade
+  * pandoc
